@@ -1,4 +1,5 @@
 # ThinkOnward Competition - Dynamic Rythms - Vincent Schuler 2025.
+# 2nd place (5000$ prize) + 1000$ Honorable mention for Best Documentation, Analysis & Insights.
 
 This guide outlines the steps to build a global historical dataset, train a model and perform inference.
 
